@@ -54,6 +54,11 @@
 ```
 <CscFeature_Calendar_EnableLocalHolidayDisplay>CHINA</CscFeature_Calendar_EnableLocalHolidayDisplay>
 ```
+##### 启用臺港假期日历
+
+```
+<CscFeature_Calendar_EnableLocalHolidayDisplay>HKTW</CscFeature_Calendar_EnableLocalHolidayDisplay>
+```
 ##### 启用农历
 
 ```
